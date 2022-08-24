@@ -2,6 +2,7 @@
 # Repositories
 | Repository                                                               |  Description                   | Period    | 
 | :----------------------------------------------------------------------- | :----------------------------- | :-------- |
+| [Tindater](https://github.com/TinDater/TinDater-backend) | | |
 | [알고리즘 스터디](https://github.com/codeing999/hanghae-algorithm-study) |  |  |
 | [Mypet](https://github.com/codeing999/mypet-front) ||
 | [항해99 노드 심화주차](https://github.com/codeing999/intense_backend) |  |  |
