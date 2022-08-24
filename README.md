@@ -10,10 +10,12 @@
 | [skilled_backend](https://github.com/codeing999/skilled_backend) | 항해99 노드 숙련주차, CRUD |  |
 | [basic_backend](https://github.com/codeing999/basic_backend) | 항해99 노드 입문주차, CRUD |  |
 | [Inside-Your-Melody](https://github.com/codeing999/Inside-Your-Melody) | 항해99 첫주차 협업, 노래 영상 공유 사이트 |  |
-|  |  |
-|  |  |
+
+
 [![codeing999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codeing999&show_icons=true&theme=cobalt)](https://github.com/Codeing999/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeing999)](https://github.com/codeing999/github-readme-stats)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
