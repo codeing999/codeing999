@@ -19,6 +19,8 @@
 
 
 [](https://velog.io/@unchapterd)
+[RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
+[ES6 이후의 변경점 총정리](https://teamdable.github.io/techblog/after-es6)
 []()
 []()
 []()
@@ -30,6 +32,5 @@
 []()
 []()
 []()
-[]()
-[]()
-[]()
+[Programmers
+MBTI·Survey·2020](https://programmers.co.kr/pages/2020-mbti-survey)
