@@ -12,8 +12,7 @@ npm i mysql2
 //config, migrations, models, seeders 폴더 생성
 npx sequelize init
 
-//config.json 파일 작성.
-config
+//config.json 파일 작성 및 .gitignore에 등록.
 
 //config.json에 명시된 이름으로 데이터베이스 생성. (실제 로컬에 db는 mysql server 프로그램이나 docker 등으로 생성 해놓아야 함)
 npx sequelize db:create
@@ -49,7 +48,7 @@ npx sequelize db:migrate
 //특정 이름으로 migration 파일 직접 생성
 npx sequelize migration:create --name 이름
 
-//마이그레이션 실행 취소 (실행한 순 역순으로 내부에 작성된 down 실행)
+//마이그레이션 실행 취소 (한번 실행 시마다 실행한 migration을 역순으로 내부에 작성된 down 실행)
 npx sequelize db:migrate:undo
 ```
 
@@ -180,10 +179,10 @@ npm run db:init
 
 ### create
 
+- 성공 시 해당 정보.
 - 실패 시
   - 유니크가 깨질 땐(ID 중복) 에러 발생.
   - 나머지 경우는 시도해봐야겠음
-- 성공 시 해당 정보.
 
 ### find
 
