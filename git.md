@@ -166,6 +166,8 @@ git commit -m "fixed untracked files"
 ```
 # 기능 이름
 
+//기능이 API일 때만 아래 형식을 지키고 다른 경우엔 자유롭게 작성
+
 method :
 path :
 request header :
