@@ -17,6 +17,16 @@ git checkout 브랜치명
 - 항상 유지되는 브랜치는 git flow에 의거하여 main과 dev 두 개이고
 - 나머지는 일시적으로 필요에 의해 만들고나서 dev에 merge한 후에는 브랜치를 삭제한다.
 
+# git flow 예시
+참고 : [우아한형제들 기술블로그 : 우린 Git-flow를 사용하고 있어요](https://techblog.woowahan.com/2553/)
+
+Git-flow에는 5가지 종류의 브랜치가 존재합니다. 항상 유지되는 메인 브랜치들(main, develop)과 일정 기간 동안만 유지되는 보조 브랜치들(feature, release, hotfix)이 있습니다.
+main : 제품으로 출시될 수 있는 브랜치
+develop : 다음 출시 버전을 개발하는 브랜치
+feature : 기능을 개발하는 브랜치
+release : 이번 출시 버전을 준비하는 브랜치
+hotfix : 출시 버전에서 발생한 버그를 수정 하는 브랜치
+
 # branch 관련 명령어
 ```
 git branch //현재 내 브랜치 확인
@@ -82,13 +92,24 @@ git switch dev/codeing999
 git merge develop //로컬의 develop 브랜치를 지금 현재 브랜치로 합친단 의미
 ```
 
-# Issues
+# .gitignore에 등록해놓은 파일이 자꾸 원격에 올라갈 때 (아직 제대로 해보진 않음)
+
+git의 캐시가 문제가 되는 거라서 아래 명령어로 캐시 내용을 전부 삭제 후 다시 add ALL해서 커밋하면 된다고 한다.
+```
+git rm -r --cached .
+git add .
+git commit -m "fixed untracked files"
+```
+
+# gitub 기능
+
+## Issues
 - 버그, 새 기능, 질문, 리팩토링 등등 말그대로 모든 이슈에 관해 작성하는 것이다.
 - 댓글을 통해 다른 기여자들과 소통하고 해결이 되면 이슈를 close한다.
 - 같은 종류의 이슈들에 대해 milestone을 붙일 수 있는데, 이 마일스톤의 목표기간을 정할 수 있고, 이 마일스톤에 해당하는 이슈 중 몇개나 close되었는지 표시도 된다.
 - 설정에 가면 버그면 버그, 이슈의 종류에 따라 그 형식에 맞게 작성하도록 템플릿을 작성해 놓을 수 있다. 
 
-## Issue Template 예시
+### Issue Template 예시
 
 - Bug report
 
@@ -141,7 +162,7 @@ response (실패 시) :
 // 추가로 들어갈 수 있을 것들
 ```
 
-# Pull request
+## Pull request
 - PR은 굳이 순서 상으로 치면 Issue보다 뒤에 하는 것. PR을 할 때 어떤 이슈에 대한 PR을 한 것인지 #번호로 이슈를 달 수 있다.
 - Assignees : 이 작업에 대한 담당자. 보통 글 쓴 본인 넣으면 됨.
 - Label : 이 작업이 어떤 성격을 갖는지 라벨 붙이는 것. 원하는 라벨을 추가할 수도 있다.
