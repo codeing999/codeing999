@@ -192,10 +192,10 @@ npm run db:init
 
 ### update
 
-- 성공하면 [1], affectendRows로 영향받은 row수 확인 가능
+- 성공하면 [1] //이게 성공해서 1인지, 영향받은 rows를 계산한건지 아직 확인 못해봄
 - 실패하면 [0]
 
 ### delete
 
-- 성공하면 1, affectendrows로 영향받은 row수 확인 가능
+- 성공하면 1
 - 실패하면 0
