@@ -40,7 +40,7 @@ npx sequelize db:drop   /db 삭제
 
 migration 관련
 
-`현재 프로젝트에서는 migration은 사용 안할 예정. model:generat로 모델 파일 생성 후엔, 마이그레이션 파일은 삭제`
+`현재 프로젝트에서는 migration은 사용 안할 예정. model:generate로 모델 파일 생성 후엔, 마이그레이션 파일은 삭제`
 
 ```terminal
 // 생성된 migration들 적용하여 실제 테이블 생성
