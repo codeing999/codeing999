@@ -27,7 +27,8 @@
 [정규표현식 테스트](https://www.regextester.com/)
 
 [[WEB] Access Token & Refresh Token 원리 (feat. JWT)](https://inpa.tistory.com/561?category=889117)
-[]()
+
+[우린 Git-flow를 사용하고 있어요](https://techblog.woowahan.com/2553/)
 []()
 []()
 []()
