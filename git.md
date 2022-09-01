@@ -80,7 +80,7 @@ git push origin :old_branch new_branch //기존 브랜치 삭제와 새 브랜�
 ```
 git push -u (생략) : 다음 번 부터 지금 경로를 기본으로 삼아서 그냥 git push만 써도 지금 쓴 명령어를 수행함.
 git push --force 또는 -f (생략) : 강제 푸쉬
-git push --force-with-lease (생략) : 자신 이외의 사람이 브랜치에 기여하지 않은 경우에만 강제  
+git push --force-with-lease (생략) : 자신 이외의 사람이 브랜치에 기여하지 않은 경우에만 강제 푸쉬
 ```
 
 # 작업할 때 습관
