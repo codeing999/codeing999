@@ -25,7 +25,7 @@ git branch 브랜치명
 
 혹은
 
-git checkout 브랜치명
+git checkout -b 브랜치명
 
 차이점은 checkout으로 하면 그 브랜치로 바로 switch 까지 한다.
 
@@ -58,8 +58,17 @@ git branch -r //원격 브랜치들 확인
 git branch -a //모든 브랜치들 확인
 git branch -v //브랜치 버젼까지 확인
 git branch 브랜치명 //로컬에 브랜치 생성
+git checkout -b 브랜치명 //로컬에 해당 브랜치 생성 후 switch까지
 
 git reflog //branch 끼리 일치 여부 확인.
+```
+
+## 완료된 branch 삭제하고 새 브랜치 만들기
+```
+git checkout dev
+git branch -D 사용했던_브랜치 //삭제. -d도 동일.
+git checkout -b feature/기능
+git pull origin dev
 ```
 
 ## branch 이름 바꾸기
@@ -77,10 +86,11 @@ git push origin :old_branch new_branch //기존 브랜치 삭제와 새 브랜�
 ```
 
 # push 옵션
+
 ```
 git push -u (생략) : 다음 번 부터 지금 경로를 기본으로 삼아서 그냥 git push만 써도 지금 쓴 명령어를 수행함.
 git push --force 또는 -f (생략) : 강제 푸쉬
-git push --force-with-lease (생략) : 자신 이외의 사람이 브랜치에 기여하지 않은 경우에만 강제 푸쉬
+git push --force-with-lease (생략) : 자신 이외의 사람이 브랜치에 기여하지 않은 경우에만 강제
 ```
 
 # 작업할 때 습관
