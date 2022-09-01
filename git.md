@@ -6,10 +6,12 @@
 
   모든 팀원이 해당 깃헙주소를 클론한다.
 
-- vscode에서 원격 레포지토리를 만드고 싶다면, (이건 안해보긴함)
+- vscode 기존 프로젝트를 원격 레포지토리로 올리고 싶다면(git프로젝트로 만들고 싶다면)
+
+github에서 레포지토리를 만든 후(이때는 README.md 생성하지 않고 만들기. 만들면 충돌나서 안올라감) 아래 명령어 입력
 
 ```terminal
-git remote add origin https://github.com/IfUwanna/branchTest
+git remote add origin 깃주소
 ```
 
 # 브랜치 만들기
