@@ -9,7 +9,9 @@ git init
 
 - 프로젝트에 .gitignore 파일 생성하고
 
-nodemoduels 등록
+node_moduels
+.env
+작성
 
 
 
