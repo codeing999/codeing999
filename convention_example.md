@@ -1,5 +1,3 @@
->실전 프로젝트에서 코딩 컨벤션했던 예시
-
 # 스크립트
 
 ```javascript
@@ -14,16 +12,14 @@
 
 ## 브런치 명명법
 
-- main
-- submain : 개발 단계에서 각자 작업 합칠 브랜치
-- dev/개인깃헙이름 : 각자 작업 후, 일정 단위로 기능 완성 시 submain에 합치기
+- main : 배포용
+- develop : 개발 단계에서 각자 작업 병합할 브랜치
 
-아래는 필요에 따라 생성 후 submain에 합치고 나면 삭제.
+  아래는 필요에 따라 생성 후 develop에 병합하고 나면 local과 origin 모두에서 삭제.
 
-- feature/기능명
-- bugfix/기능명
-- module/모듈
-- refactor/기능명
+- feature/기능명 : 기능 구현 시
+- fix/기능명 : error 수정 시
+- refactor/기능명 : 기능 개선 시
 
 ## 2. 커밋 명명법
 
@@ -39,21 +35,30 @@
 - 문제점
 
 작업 내용에 대한 간단한 설명
-
+에러 코드 :
 의도한 결과 :
-
-실제 결과 : 에러코드 포함.
+실제 결과 :
 
 - 시도한 내용
 
 본인 코드 등등
 
-# 합의된 구현 방식
+# Coding Convention
 
-- 함수명, 변수명 : 카멜 케이스
-- 클래스명 : 첫글자도 대문자
-- DataBase의 테이블명, 컬럼명 카멜? 스네이크? 미정
-- DataBase는 MySQL 사용. ORM은 Sequelize 사용.
-- 유효성 검사에 joi 사용
+## Naming
+
+- 함수명, 변수명 : Camel Case
+- 클래스명 : Pascal Case
+- DataBase의 테이블명, 컬럼명 : Camel Case? Snake Case? 미정
 - prettier 기본 설정 사용. 저장 시마다 적용.
 - husky 사용. 커밋 시마다 prettier 적용 (이중 장치)
+
+## Clean Code
+
+- console.log는 모두 지우기
+- 불필요한 주석은 사용하지 않기
+
+# 기타 합의 사항
+
+- DataBase는 MySQL 사용. ORM은 Sequelize 사용.
+- 유효성 검사에 joi 사용
