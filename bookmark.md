@@ -18,6 +18,9 @@
 ## TEST
 [TOAST UI - 테스트](https://ui.toast.com/fe-guide/ko_TEST)
 
+## CS
+[부스트코스 무료 강의](https://www.boostcourse.org/cs112)
+[코딩 면접 대학](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ko.md)
 
 ## 나머지
 
@@ -44,7 +47,7 @@
 [Programmers
 MBTI·Survey·2020](https://programmers.co.kr/pages/2020-mbti-survey)
 
-[]()
+
 []()
 []()
 []()
