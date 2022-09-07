@@ -39,7 +39,8 @@
 
 [Passport 모듈 사용법](https://inpa.tistory.com/entry/NODE-%F0%9F%93%9A-Passport-%EB%AA%A8%EB%93%88-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%EC%B2%98%EB%A6%AC%EA%B3%BC%EC%A0%95-%F0%9F%92%AF-%EC%9D%B4%ED%95%B4%ED%95%98%EC%9E%90#)
 
-[]()
+[NestJS로 배우는 백엔드 프로그래밍](https://wikidocs.net/book/7059)
+
 []()
 []()
 []()
