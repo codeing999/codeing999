@@ -102,6 +102,14 @@ userId: {
 
 ## 관계성 작성
 
+참고 : [association 공식 문서](https://sequelize.org/docs/v6/core-concepts/assocs/#creating-the-standard-relationships)
+```
+To create a One-To-One relationship, the hasOne and belongsTo associations are used together;
+To create a One-To-Many relationship, the hasMany and belongsTo associations are used together;
+To create a Many-To-Many relationship, two belongsToMany calls are used together.
+Note: there is also a Super Many-To-Many relationship, which uses six associations at once, and will be discussed in the Advanced Many-to-Many relationships guide.
+```
+
 ### 1대 다 관계 예시
 
 ```javascript
