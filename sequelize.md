@@ -93,7 +93,7 @@ userId: {
     tableName: "user",  //테이블명 지정
     timestamps: false,  //createdAt, updatedAt 자동 생성 여부
     pranoid: false,     //얕은 삭제 여부. 얕은 삭제 시 실제 삭제 되지 않고 deleteAt 에 삭제 시간 찍힘.
-    underscored: true,  //snake case 사용 여부.
+    underscored: true,  //snake case 사용 여부. 이것을 사용하면 model파일에 userId 이렇게 컬럼을 작성해도 DB에 user_id로 작성됨. 또한, 쿼리함수에서는 그대로 userId로 접근해도 오류가 나지 않음. 오히려 user_id : userId 이런 식으로 작성하면 오류남.
     //한글을 사용하기 위한 설정. 안해줘도 문제는 없었음.
     charset: "utf8",
     collate : "utf8_general_ci"
