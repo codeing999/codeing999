@@ -38,8 +38,7 @@
             "GET",
             "PUT",
             "POST",
-            "DELETE",
-            "OPTIONS"
+            "DELETE"
         ],
         "AllowedOrigins": [
             "*"
