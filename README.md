@@ -16,6 +16,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeing999)](https://github.com/codeing999/github-readme-stats)
 
+# Stacks  <!--https://simpleicons.org/-->
+<div>
+<img src="https://img.shields.io/badge/github action-2088FF?style=flat&logo=GitHub Actions&logoColor=white">
+<img src="https://img.shields.io/badge/express-2088FF?style=flat&logo=express&logoColor=white">
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
