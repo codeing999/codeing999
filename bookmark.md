@@ -49,7 +49,17 @@ https://docs.aws.amazon.com/ko_kr/codepipeline/latest/userguide/pipelines-create
 
 파이프라인이 성공하면 마지막으로 echosystem.json같은 파일을 만들라고하는데, 이게 위의 yml이랑 겹치는 동작을 함. 둘중 어느 방법을 해도 될 듯함. 나는 yml로 해서 성공함.
 
+[Github Action, AWS CodeDeploy를 사용하여 자동 배포하기!](https://bohyeon-n.github.io/deploy/devops/github_action.html)
 
+[야 너두 자동 배포 할 수 있어 with AWS CodeDeploy](https://jhpa.tistory.com/10)
+
+[Github Action으로 CI/CD 구축하기 - 5편 : appspec.yaml 분석](https://goodgid.github.io/Github-Action-CI-CD-CodeDeploy-App-Spec-File/)
+
+위 세개 사이트는 s3와 script를 써서 pipeline쓰는 나랑은 다른 방법이지만 자세해서 나중에 참고해볼만 할 듯.
+
+[워크플로우를 깃허브 액션으로 자동화하기](https://techwell.wooritech.com/docs/github-action/overview)
+
+깃헙액션 잘 정리되어 있음
 
 ## 나머지
 
@@ -72,8 +82,7 @@ https://docs.aws.amazon.com/ko_kr/codepipeline/latest/userguide/pipelines-create
 [Node js + Express + Socket.io 로 1대 1 채팅 구현하기 (1)](https://iot624.tistory.com/126?category=1001197)
 []()
 []()
-[]()
-[]()
+
 
 
 [Programmers
@@ -81,6 +90,24 @@ MBTI·Survey·2020](https://programmers.co.kr/pages/2020-mbti-survey)
 
 
 
+
+
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
 []()
 []()
 []()
