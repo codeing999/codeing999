@@ -41,7 +41,7 @@
 
 [NestJS로 배우는 백엔드 프로그래밍](https://wikidocs.net/book/7059)
 
-[]()
+[Node js + Express + Socket.io 로 1대 1 채팅 구현하기 (1)](https://iot624.tistory.com/126?category=1001197)
 []()
 []()
 []()
