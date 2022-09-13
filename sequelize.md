@@ -103,6 +103,8 @@ userId: {
 ## 관계성 작성
 
 참고 : [association 공식 문서](https://sequelize.org/docs/v6/core-concepts/assocs/#creating-the-standard-relationships)
+[각 관계성으로 생성되는 특별 메소드](https://sequelize.org/docs/v6/core-concepts/assocs/#special-methodsmixins-added-to-instances)
+
 ```
 To create a One-To-One relationship, the hasOne and belongsTo associations are used together;
 To create a One-To-Many relationship, the hasMany and belongsTo associations are used together;
