@@ -61,6 +61,8 @@ https://docs.aws.amazon.com/ko_kr/codepipeline/latest/userguide/pipelines-create
 
 깃헙액션 잘 정리되어 있음
 
+[상돈님이 정리한 거](https://github.com/QBChaining/QBChaining-BE/issues/95)
+
 ## 나머지
 
 [](https://velog.io/@unchapterd)
