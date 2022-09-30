@@ -165,7 +165,7 @@ Promise.belongsToMany(models.User, {
 require("dotenv").config({ path: "../.env" });
 const { sequelize } = require("./sequelize/models");
 sequelize
-  .sync({ force: true })
+  .sync({ force: true })  //데이터를 리셋시키지 않을 때에는 alter : true
   .then(() => {
     console.log("db connect seccess");
   })
