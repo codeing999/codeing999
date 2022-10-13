@@ -9,7 +9,7 @@
 | [브로콜리 프로젝트](https://github.com/Broccoli-Velog/Broccoli-Backend)  | Velog 클론코딩 - 사이드 프로젝트  | 2weeks | 2022.07.19 - 2022.08.05 |
 | [Skilled_Backend](https://github.com/codeing999/skilled_backend) | 항해99 노드 숙련주차, CRUD              | 1weeks | 2022.07.29 - 2022.08.04 |
 | [Basic_Backend](https://github.com/codeing999/basic_backend) | 항해99 노드 입문주차, CRUD                  | 1weeks | 2022.07.22 - 2022.07.28 |
-| [Inside-Your-Melody](https://github.com/codeing999/Inside-Your-Melody) | 노래 영상 공유 사이트 - 항해99 첫주차 협업 프로젝트 | 1weeks | 2022.07.11 - 2022.07.14 |
+| [Inside-Your-Melody](https://github.com/codeing999/Inside-Your-Melody) | 노래 영상 공유 사이트 | 1weeks | 2022.07.11 - 2022.07.14 |
 
 # Stacks  
 <!-- https://simpleicons.org/
