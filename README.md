@@ -24,15 +24,23 @@
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Code Deploy-2088FF?style=flat&logo=Code Deploy&logoColor=white">
+  <img src="https://img.shields.io/badge/Code Pipeline-2088FF?style=flat&logo=Code Pipeline&logoColor=white">
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=AMAZON EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=AMAZON RDS&logoColor=white">
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=AMAZON S3&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/-.ENV-%23ECD53F?style=flat&logo=.ENV&logoColor=black">
   <img src="https://img.shields.io/badge/puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=black">
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=AMAZONE EC2&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat&logo=JSON Web Tokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Passport-34E27A?style=flat&logo=Passport&logoColor=white">
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
+
+  <img src="https://img.shields.io/badge/express-2088FF?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/express-2088FF?style=flat&logo=express&logoColor=white">
+
 
 
 
