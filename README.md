@@ -11,25 +11,39 @@
 | [Basic_Backend](https://github.com/codeing999/basic_backend) | 항해99 노드 입문주차, CRUD                  | 1weeks | 2022.07.22 - 2022.07.28 |
 | [Inside-Your-Melody](https://github.com/codeing999/Inside-Your-Melody) | 노래 영상 공유 사이트 - 항해99 첫주차 협업 프로젝트 | 1weeks | 2022.07.11 - 2022.07.14 |
 
+# Stacks  
+<!-- https://simpleicons.org/
+<img src="https://img.shields.io/badge/github action-2088FF?style=flat&logo=GitHub Actions&logoColor=white">
+<img src="https://img.shields.io/badge/express-2088FF?style=flat&logo=express&logoColor=white">
+ <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+-->
+<div>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=Node.js&logoColor=black">
+  <br>
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-.ENV-%23ECD53F?style=flat&logo=.ENV&logoColor=black">
+  <img src="https://img.shields.io/badge/puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=black">
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=AMAZONE EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
+
+
+
+</div> 
 
 [![codeing999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codeing999&show_icons=true&theme=cobalt)](https://github.com/Codeing999/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeing999)](https://github.com/codeing999/github-readme-stats)
 
-# Stacks  
-<!-- https://simpleicons.org/
-<div>
-<img src="https://img.shields.io/badge/github action-2088FF?style=flat&logo=GitHub Actions&logoColor=white">
-<img src="https://img.shields.io/badge/express-2088FF?style=flat&logo=express&logoColor=white">
-</div> 
--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
 
