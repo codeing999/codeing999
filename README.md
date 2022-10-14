@@ -19,8 +19,8 @@
 -->
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=Node.js&logoColor=black">
+  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Code Deploy-2088FF?style=flat&logo=Code Deploy&logoColor=white">
   <img src="https://img.shields.io/badge/Code Pipeline-2088FF?style=flat&logo=Code Pipeline&logoColor=white">
