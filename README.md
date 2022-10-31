@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/github action-2088FF?style=flat&logo=GitHub Actions&logoColor=white">
 <img src="https://img.shields.io/badge/express-2088FF?style=flat&logo=express&logoColor=white">
  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+요밑에 세개는 넣기엔 너무 짜잘한거같아서 일단 뺌.
+<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat&logo=JSON Web Tokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Passport-34E27A?style=flat&logo=Passport&logoColor=white">
+  <img src="https://img.shields.io/badge/-.ENV-%23ECD53F?style=flat&logo=.ENV&logoColor=black">
 -->
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
@@ -30,13 +34,13 @@
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
   <br>
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=black">
-  <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat&logo=JSON Web Tokens&logoColor=white">
-  <img src="https://img.shields.io/badge/Passport-34E27A?style=flat&logo=Passport&logoColor=white">
-  <img src="https://img.shields.io/badge/-.ENV-%23ECD53F?style=flat&logo=.ENV&logoColor=black">
+  
 
 </div> 
 
