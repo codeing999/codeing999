@@ -1,11 +1,14 @@
 # Repositories
 | Repository                                                               |  Description                   | Period    | Date | 
 | :----------------------------------------------------------------------- | :----------------------------- | :-------- | :----|
+| [gitove](https://github.com/gitovep/gitove) | An interactive git cli tool for consistant commit messages | 3weeks | 2023.07.29 - 2023.08.19 |
+| [VetHub](https://github.com/plus-tdd/animalNest) | TDD기반 서버 구축, CI+CD / AutoScaling, 통합 모니터링, 장애대응 | 7weeks | 2023.06.10 - 2023.07.28 |
 | [CLIPs](https://github.com/codeing999/CLIPs-backend) | 약속 장소 추천 서비스                               | 6weeks | 2022.08.26 - 2022.10.07 |
-| [Tindater](https://github.com/TinDater/TinDater-backend) | Tinder 클론 코딩                               | 1weeks | 2022.08.19 - 2022.08.25 |
 | [알고리즘 스터디](https://github.com/codeing999/hanghae-algorithm-study) | 알고리즘 스터디                  | 5weeks | 2022.07.15 - 2022.08.22 |
-| [Mypet](https://github.com/my-pet-hh99/mypet-back) | 애완동물을 자랑하는 SNS                               | 1weeks | 2022.08.12 - 2022.08.18 | 
+
 <!--
+| [Tindater](https://github.com/TinDater/TinDater-backend) | Tinder 클론 코딩                               | 1weeks | 2022.08.19 - 2022.08.25 |
+| [Mypet](https://github.com/my-pet-hh99/mypet-back) | 애완동물을 자랑하는 SNS                               | 1weeks | 2022.08.12 - 2022.08.18 | 
 | [Intense_Backend](https://github.com/codeing999/intense_backend) | 항해99 노드 심화주차                    | 1weeks | 2022.08.05 - 2022.08.11 |
 | [브로콜리 프로젝트](https://github.com/Broccoli-Velog/Broccoli-Backend)  | Velog 클론코딩 - 사이드 프로젝트  | 2weeks | 2022.07.19 - 2022.08.05 |
 | [Skilled_Backend](https://github.com/codeing999/skilled_backend) | 항해99 노드 숙련주차, CRUD              | 1weeks | 2022.07.29 - 2022.08.04 |
