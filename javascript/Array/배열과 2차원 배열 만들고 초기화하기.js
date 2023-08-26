@@ -1,4 +1,5 @@
 // 참고 자료 : https://miiingo.tistory.com/272
+// https://gent.tistory.com/296
 
 const N = 5;   // 길이 N을 5라고 가정
 
