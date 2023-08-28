@@ -1,7 +1,7 @@
 // 참고 자료 : https://miiingo.tistory.com/272
 // https://gent.tistory.com/296
 
-const N = 5;   // 길이 N을 5라고 가정
+const N = 5; // 길이 N을 5라고 가정
 
 // Array.fill 사용
 let arr1 = new Array(N).fill(0);
@@ -10,7 +10,6 @@ let arr1 = new Array(N).fill(0);
 let arr2;
 (arr2 = []).length = N;
 arr2.fill(0);
-
 
 /**
  * 2차원 배열

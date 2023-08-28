@@ -26,7 +26,7 @@ let nowDay = now.getDay();
 //console.log(dateFormat(now, "isoDate"));
 
 const dd = `${nowYear}-${nowMonth}-${nowDate}`;
-console.log("test", dd, "2023-03-01", dd === "2023-01-16");
+console.log('test', dd, '2023-03-01', dd === '2023-01-16');
 
 /*mmdd 형식으로 오늘 표시
  */
@@ -49,15 +49,15 @@ console.log("test", dd, "2023-03-01", dd === "2023-01-16");
 
 // 오늘 날짜
 const today = nowMonth + nowDate;
-console.log("today : ", today);
+console.log('today : ', today);
 
 // 한달 전
 let oneMonthAgo = new Date(now.setMonth(now.getMonth() - 1));
-console.log("oneMonthAgo : ", oneMonthAgo);
+console.log('oneMonthAgo : ', oneMonthAgo);
 
 //어제 (24시간 전이라고 보면 될 듯)
 let yesterday = new Date(now.setDate(now.getDate() - 1));
-console.log("yesterday : ", yesterday);
+console.log('yesterday : ', yesterday);
 
 //한국시간으로 어제
 let yMonth = yesterday.getMonth() + 1;
@@ -74,11 +74,11 @@ console.log(yMonth, yDate, yHour);
 // console.log(yesterday3);
 
 const now2 = new Date();
-let date = new Date("2023-01-01");
+let date = new Date('2023-01-01');
 if (now2 <= date) {
-  console.log("1", now2, date);
+  console.log('1', now2, date);
 } else {
-  console.log("2", now2, date);
+  console.log('2', now2, date);
 }
 
 const birthday = 20190101;
@@ -86,9 +86,25 @@ const now3 = new Date();
 const petBirthdayYear = Math.floor(birthday / 10000);
 const petBirthdayMonth = Math.floor(birthday / 100) - petBirthdayYear * 100 - 1;
 const petBirthdayDate = Math.floor(birthday % 100);
-const petBirthdayTime = new Date(petBirthdayYear, petBirthdayMonth, petBirthdayDate, 9);
-console.log(petBirthdayYear, petBirthdayMonth, petBirthdayDate, petBirthdayTime);
+const petBirthdayTime = new Date(
+  petBirthdayYear,
+  petBirthdayMonth,
+  petBirthdayDate,
+  9
+);
+console.log(
+  petBirthdayYear,
+  petBirthdayMonth,
+  petBirthdayDate,
+  petBirthdayTime
+);
 const diffDate = now3.getTime() - petBirthdayTime.getTime();
-console.log(now3, now3.getTime(), petBirthdayTime.getTime(), "diffDate : ", diffDate);
+console.log(
+  now3,
+  now3.getTime(),
+  petBirthdayTime.getTime(),
+  'diffDate : ',
+  diffDate
+);
 let petAge = Math.floor(Math.abs(diffDate / (1000 * 60 * 60 * 24 * 365)));
-console.log("petAge : ", petAge);
+console.log('petAge : ', petAge);
