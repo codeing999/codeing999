@@ -1,6 +1,7 @@
 # Repositories
 | Repository                                                               |  Description                   | Period    | Date | 
 | :----------------------------------------------------------------------- | :----------------------------- | :-------- | :----|
+| [알고리즘 연습](https://github.com/codeing999/algorithm_practice) | 알고리즘 연습                  | in progress | 2023.08.05 -  |
 | [gitove](https://github.com/gitovep/gitove) | An interactive git cli tool for consistant commit messages | 3weeks | 2023.07.29 - 2023.08.19 |
 | [VetHub](https://github.com/plus-tdd/animalNest) | TDD기반 서버 구축, CI+CD / AutoScaling, 통합 모니터링, 장애대응 | 7weeks | 2023.06.10 - 2023.07.28 |
 | [CLIPs](https://github.com/codeing999/CLIPs-backend) | 약속 장소 추천 서비스                               | 6weeks | 2022.08.26 - 2022.10.07 |
